@@ -22,7 +22,7 @@ To set the hostname using the UI, click on the overview "**Activities**" or pres
 
 On the About window, click the **Device Name box**, type your preferred **hostname**, and click **Rename** to save the changes.
 
-(/home/chiloba/Pictures/productivity%20Folder/Productivity-in-Everyday-Use.png)
+/home/chiloba/Pictures/productivity%20Folder/Productivity-in-Everyday-Use.png
 
 For this case, the hostname was set to cloudspinx.com; change it accordingly and log out of the system and log back in in order to reflect across all sessions.
 
